@@ -1,0 +1,8 @@
+<appData>
+  <username>leslie@artscorps.org</username>
+  <password>October102005</password>
+  <wsdl>/Users/jesses/src/php/packages/soapclient/partner.wsdl.xml</wsdl>
+  <doCacheQueries>False</doCacheQueries>
+  <doLogQueries>0</doLogQueries>
+  <imageDirectory>/home/artscorp/public_html/salesforce/Images/Teaching Artists/</imageDirectory>
+</appData>

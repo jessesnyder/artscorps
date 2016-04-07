@@ -1,0 +1,45 @@
+[X] Modify class detail to include co-teaching artist [with field simply not
+    showing when it is not populated (versus leaving blank)] 
+[X] Modify start date format on class list to display by month/day/year 
+[X] Categorize current & next quarter classes by art medium (dance, digital 
+    media, music, poetry/spoken word, theatre arts, visual art,
+    interdisciplinary). 
+[X] Categorize teaching artists by art medium (dance, digital media, music, 
+    poetry/spoken word, theatre arts, visual art, interdisciplinary). 
+[X] Flag open classes with some form of call-out like “hey teen!” (we’ll supply 
+    words if you’ll supply coding – it’s ok to remove start dates and use this 
+    column for callout of open classes if needed) 
+[X] Modify teaching artist bio to include link to class detail for which teaching 
+    artist is co-teaching artist 
+[X] Modify teaching artist bio to include photo of teaching artist (I think we 
+    have this capability already, but I’m not sure how to use it) 
+[X] Modify facility partner information to change the term “facility partner” to        
+    “program partner” 
+[X] Categorize program partner information by neighborhood with option to “see 
+    all” (alphabetized list of program partners) 
+[X] Modify community partner information to change the term “community partner” to 
+    “collaborator” 
+[X] Modify collaborator detail to include a link to collaborator web site 
+[ ] Modify web to lead pages for new web site (Mike will work with Pyramid 
+    Communications on form layout and will supply html code) 
+[ ] Modify web to lead pages to include an online form for classroom assistants 
+    that can be assigned to a separate staff person (goal:  teaching artists, 
+    classroom assistants, volunteers, & general inquiries all handled by separate 
+    staff people) 
+[ ] Modify web to lead pages to include an online form for program partners to 
+    submit (similar to form for teaching artists/volunteers but with data that 
+    uploads to Salesforce program partner record once accepted).   
+[ ] Modify database to support changes for new website along with a few clean-up issues: 
+    [ ] Make “art medium” a required field for both classes and teaching artists 
+    [ ] Modify facility partner information to change the term “facility partner” 
+        to “program partner” 
+    [ ] Modify community partner information to change the term “community partner” 
+        to “collaborator” 
+    [ ] Modify art medium picklist for classes, teaching artists and classroom 
+        assistants to change “theatre” to “theatre arts”  
+    [ ] Modify historic and current records to replace “theatre” with “theatre arts” 
+        for all classes, teaching artists and classroom assistants. 
+    [ ] Modify lead conversion tab to include column for name of staff person assigned 
+        to lead  
+[X] PD class detail page
+
